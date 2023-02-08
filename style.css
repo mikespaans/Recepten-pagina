@@ -1,0 +1,52 @@
+.NewDiv{
+    margin: 0px auto;
+    width: 704px;
+}
+
+.Picture{
+    width: 100%;
+    height: 100%;
+}
+
+.TipClass{
+    background-color: #def6ed;
+    margin-top: 25px;
+    padding: 10px 30px;
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.UlClass li{
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.OlClass li{
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+#Bereidingswijze{
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+#Ingrediënten{
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+#Titel{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+#EersteParagraaf{
+    font-size: 24px;
+    line-height: 32px;
+}
